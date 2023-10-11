@@ -21,8 +21,11 @@ Guardians of the Galaxy: Battle for the Universe is a 3D top-down shooter roguel
 made in collaboration with the whole class using our own game engine built from scratch.
 
 You can check:
+
 [The webpage of the game](https://pixelplaygroundgam.wixsite.com/pixelplayground/the-studio)
+
 [The GitHub repository](https://github.com/rastabrandy02/Guardians_of_the_Galaxy_Battle_for_the_Universe)
+
 [The Game Design Document](https://drive.google.com/file/d/1FHXnxEN5LNQL6NPZ3jDBR5BZy6xLFWRd/view?usp=sharing)
 
 ## Rogue Tank
@@ -38,7 +41,11 @@ This board game has all the material, rules and documentation ready to print and
 [You can see all the Growing Madness material here](https://drive.google.com/drive/folders/1fc6CwOr-I5MDVTDa4zxrZPjk5qLMA_9M?usp=drive_link)
 
 # Contact Me
+
 E-mail: nofer02@gmail.com
+
 [CV](https://drive.google.com/file/d/1AUYLbDF1QRkkeKZr3jgqcudwg48fmR_2/view?usp=sharing)
+
 [Linkedin](https://www.linkedin.com/in/fernando-freixinet-677847279/)
+
 [GitHub](https://github.com/rastabrandy02)
