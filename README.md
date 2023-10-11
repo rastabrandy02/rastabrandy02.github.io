@@ -1,2 +1,2 @@
-# rastabrandy02.github.io
-A link to my porfolio
+# Fernando Freixinet
+Videogame Designer
