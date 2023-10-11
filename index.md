@@ -1,4 +1,4 @@
-# Fernando Freixinet
+# Welcome to my porfolio
 I'm Fernando Freixinet from Barcelona, I'm 21 years old and here you will find some information about me and my projects.
 
 Videogames have always been a part of my life and I'm really interested in the design aspect of videogames.
