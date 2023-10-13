@@ -16,6 +16,8 @@ for the students and develop several educational projects. I teach the use of ga
 
 # My Projects
 ## Guardians of the Galaxy: Battle for the Universe
+![Guardians of the Galaxy: Battle for the Universe Logo](rastabrandy02.github.io/docs/assets/gotg_title)
+![Guardians of the Galaxy: Battle for the Universe Game](rastabrandy02.github.io/docs/assets/gotg)
 This is the final project of the third year of the videogame development degree, where I was the lead designer. 
 Guardians of the Galaxy: Battle for the Universe is a 3D top-down shooter roguelite set in the Guardians of the Galaxy universe,
 made in collaboration with the whole class using our own game engine built from scratch.
