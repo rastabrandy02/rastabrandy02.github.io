@@ -33,12 +33,20 @@ You can check:
 [The Game Design Document](https://drive.google.com/file/d/1FHXnxEN5LNQL6NPZ3jDBR5BZy6xLFWRd/view?usp=sharing)
 
 ## Rogue Tank
+
+![Rogue Tank Title Screen](docs/assets/rogue_tank_title.png)
+![Rogue Tank Game](docs/assets/rogue_tank.png)
+
 Rogue Tank is a top-down shooter roguelite based on surviving enemy waves while leveling up and getting stronger 
 I designed and developed this game by myself using Unity.
 
 [You can check my game here](https://rastabrandy02.itch.io/rogue-tank)
 
 ## Growing Madness
+
+![Growing Madness Basic Card - Cow](docs/assets/growing_madness_cow.png)
+![Growing Madness Resource Card - Pizza](docs/assets/growing_madness_pizza.png)
+
 Growing Madness is the board game I have designed, based on a competitive approach of classic farming games.
 This board game has all the material, rules and documentation ready to print and start playing.
 
