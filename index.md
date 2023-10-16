@@ -60,4 +60,4 @@ E-mail: nofer02@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/fernando-freixinet-677847279/)
 
-[GitHub](https://github.com/rastabrandy02)
+[Check out the rest of my projects in GitHub](https://github.com/rastabrandy02)
